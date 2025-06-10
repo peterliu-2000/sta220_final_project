@@ -1,0 +1,6 @@
+#ignore data2, data3, deprecated, dlc_project, keypoint_moseq
+data2/
+data3/
+deprecated/
+dlc_project/
+keypoint_moseq/
